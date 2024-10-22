@@ -1,0 +1,2 @@
+python KmediodShapeClustering.py
+pause
